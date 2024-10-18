@@ -1,20 +1,21 @@
 ``` JavaScript
-from Developer import AlissonFerro
+import AlissonFerro from Developer;
 
 export default class About extends Developer{
-  this.name  = 'Alisson'
-  this.age   =  28
-  this.work  = 'Bosch'
-  this.local = 'Curitiba'
+  this.name  = 'Alisson';
+  this.age   =  28;
+  this.work  = 'Bosch';
+  this.local = 'Curitiba';
   
-  this.college  = 'UniCesumar'
-  this.status = 'finish' 
+  this.college  = 'UniCesumar';
+  this.status = 'finish';
 
 }
+
 class Skills extends Developer{
-  this.languages  = [ 'JS','TS','MongoDB','HTML','CSS' ]
-  this.frameworks = [ 'React', 'Node.JS(TS)', 'express' ]
-  this.databases  = [ 'MongoDB', 'MySQL' ]
+  this.languages  = [ 'JS','TS','MongoDB','HTML','CSS' ];
+  this.frameworks = [ 'React', 'Node.JS(TS)', 'express' ];
+  this.databases  = [ 'MongoDB', 'MySQL' ];
 }
 ```
 
