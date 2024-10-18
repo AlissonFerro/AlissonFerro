@@ -9,10 +9,9 @@ export default class About extends Developer{
   
   this.college  = 'UniCesumar';
   this.status = 'finish';
-
 }
 
-class Skills extends Developer{
+export class Skills extends Developer{
   this.languages  = [ 'JS','TS','MongoDB','HTML','CSS' ];
   this.frameworks = [ 'React', 'Node.JS(TS)', 'express' ];
   this.databases  = [ 'MongoDB', 'MySQL' ];
