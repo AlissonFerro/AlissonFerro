@@ -3,9 +3,9 @@ import AlissonFerro from Developer;
 
 export default class About extends Developer{
   this.name  = 'Alisson';
-  this.age   =  28;
-  this.work  = 'Bosch';
-  this.local = 'Curitiba';
+  this.age   =  30;
+  this.work  = 'iCode';
+  this.local = 'Paranavaí';
   
   this.college  = 'UniCesumar';
   this.status = 'finish';
