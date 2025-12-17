@@ -20,10 +20,9 @@ export class Skills extends Developer{
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFerro&layout=compact)
 
-## My Contribution Graph
-
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlissonFerro/AlissonFerro/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlissonFerro/AlissonFerro/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlissonFerro/AlissonFerro/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="raw.githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="raw.githubusercontent.com">
+    <img alt="pacman contribution graph" src="raw.githubusercontent.com">
 </picture>
+
