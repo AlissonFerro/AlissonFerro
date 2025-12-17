@@ -12,9 +12,9 @@ jobs:
     steps:
       # Garanta que "uses:" esteja alinhado corretamente dentro de "steps:"
       - uses: actions/checkout@v4 
-      - uses: abozanona/pacman-contribution-graph@v1
+      - uses: abozanona/pacman-contribution-graph@main
         with:
-          # Adicione suas configurações aqui se precisar
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.AlissonFerro }}
+       
           # Exemplo de configuração adicional:
           # GHOST_ENABLED: true 
