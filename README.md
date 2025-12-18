@@ -25,4 +25,3 @@ export class Skills extends Developer{
     <source media="(prefers-color-scheme: light)" srcset="raw.githubusercontent.com">
     <img alt="pacman contribution graph" src="raw.githubusercontent.com">
 </picture>
-
